@@ -110,7 +110,7 @@ export default function AchievementPage() {
                           className="cert-body-subtitle"
                           style={{ color: "#eb90ff", marginBottom: "0px" }}
                         >
-                         Max Rating- 1804
+                         Max Rating- 1938
                         </h3>
                       </div>
                     </div>
@@ -152,13 +152,13 @@ export default function AchievementPage() {
                           className="cert-body-subtitle"
                           style={{ color: "#eb90ff", marginBottom: "0px" }}
                         >
-                          Max Rating - 1960
+                          Max Rating - 2088
                         </h3>
                         <h3
                           className="cert-body-subtitle"
                           style={{ color: "#eb90ff", marginBottom: "0px" }}
                         >
-                          Among top 3.38% users globally
+                          Among top 2% users globally
                         </h3>
                       </div>
                     </div>

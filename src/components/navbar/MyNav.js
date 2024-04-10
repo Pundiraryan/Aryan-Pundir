@@ -35,7 +35,7 @@ export default function MyNav() {
       <Container>
         <Navbar.Brand href="/">
           <div className="d-flex flex-row justify-content-between">
-            <img src="https://media.licdn.com/dms/image/D4D03AQF8YOFX-8bbHQ/profile-displayphoto-shrink_400_400/0/1687838262363?e=1709164800&v=beta&t=gMEfwxEAfQAW3V9W18vqWqYW9g9wOi4Kg22S3CLBVKc" className="img-fluid logo" alt="brand" />
+            <img src="https://res.cloudinary.com/dzycz1c4v/image/upload/v1712754384/uploads/mai7bvv6b0ntgvd8av9i.jpg" className="img-fluid logo" alt="brand" />
             <h5
               id="navhead"
               style={{

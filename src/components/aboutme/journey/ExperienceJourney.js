@@ -32,9 +32,15 @@ function ExperienceJourney() {
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<PersonIcon />}
         >
-          <h5 className="vertical-timeline-element-title">
-            Coming soon...
-          </h5>
+          <h4 className="vertical-timeline-element-subtitle mt-2">
+            Full Stack Developer Intern
+          </h4><br />
+          <h4 className="vertical-timeline-element-title">
+          VENQ
+          </h4>
+          <p>
+            Jan 2024 - Mar 2024  
+          </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           iconStyle={{ background: "#fbd9ad", color: "rgb(78 22 112)" }}

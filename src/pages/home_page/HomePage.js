@@ -82,7 +82,7 @@ export default function Home() {
                 <Tilt>
                   <Fade cascade>
                     <img
-                      src="https://media.licdn.com/dms/image/D4D03AQF8YOFX-8bbHQ/profile-displayphoto-shrink_400_400/0/1687838262363?e=1709164800&v=beta&t=gMEfwxEAfQAW3V9W18vqWqYW9g9wOi4Kg22S3CLBVKc"
+                      src="https://res.cloudinary.com/dzycz1c4v/image/upload/v1712754384/uploads/mai7bvv6b0ntgvd8av9i.jpg"
                       alt="home pic"
                       className="img-fluid"
                     />

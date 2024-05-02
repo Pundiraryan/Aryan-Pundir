@@ -98,7 +98,7 @@ export default function Certification() {
                           className="cert-body-title"
                           style={{ fontWeight: 700, color: "#fbd9ad" }}
                         >
-                          ⭐⭐⭐⭐⭐⭐ at Codechef
+                          ⭐⭐⭐⭐⭐ at Codechef
                         </h2>
                         <h3
                           className="cert-body-subtitle"

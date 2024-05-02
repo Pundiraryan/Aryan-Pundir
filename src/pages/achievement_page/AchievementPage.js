@@ -152,7 +152,7 @@ export default function AchievementPage() {
                           className="cert-body-subtitle"
                           style={{ color: "#eb90ff", marginBottom: "0px" }}
                         >
-                          Max Rating - 2088
+                          Max Rating - 2124
                         </h3>
                         <h3
                           className="cert-body-subtitle"
@@ -375,13 +375,13 @@ export default function AchievementPage() {
                           className="cert-body-title"
                           style={{ fontWeight: 700, color: "#fbd9ad" }}
                         >
-                          Codechef Starters 88 2023 (Div 2)
+                          Codechef Starters 131 Div 2
                         </h2>
                         <h3
                           className="cert-body-subtitle"
                           style={{ color: "#eb90ff", marginBottom: "0px" }}
                         >
-                          Global Rank 160 out of 17555 participants 
+                          Global Rank 28 out of 1684 participants 
                         </h3>
                       </div>
                     </div>

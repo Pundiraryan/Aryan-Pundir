@@ -56,8 +56,8 @@ const About = () => {
                     Modern Javascript Library and Frameworks.
                   </b>
                 <br />
-                <br />In my free time, I enjoy learning new technologies and &nbsp;
-                  <b className="purple">building new web technologies and products. </b>
+                {/* In my free time, I enjoy learning new technologies and &nbsp;
+                  <b className="purple">building new web technologies and products. </b> */}
               </p>
             </Fade>
           </Col>

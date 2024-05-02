@@ -98,13 +98,13 @@ export default function Certification() {
                           className="cert-body-title"
                           style={{ fontWeight: 700, color: "#fbd9ad" }}
                         >
-                          ⭐⭐⭐⭐ at Codechef
+                          ⭐⭐⭐⭐⭐⭐ at Codechef
                         </h2>
                         <h3
                           className="cert-body-subtitle"
                           style={{ color: "#eb90ff", marginBottom: "0px" }}
                         >
-                         Max Rating- 1938
+                         Max Rating- 2015
                         </h3>
                       </div>
                     </div>
